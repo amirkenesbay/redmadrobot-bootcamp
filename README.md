@@ -36,6 +36,9 @@
 2. Сделать обертку исходного кода в docker-образ (добавить в корневую директорию файл Dockerfile, docker-compose.yml при необходимости)
 3. Для проверки кода дополнительно подключить анализатор кода на выбор
 
+### Иллюстрация swagger документации на основе построенного API:
+![Иллюстрация к swagger](https://github.com/amirkenesbay/redmadrobot-bootcamp/blob/master/swagger.png)
+
 ### Ссылки:
 - Приложение доступно по адресу: http://localhost:8080
 - Документация доступна по адресу: http://localhost:8080/swagger-ui/index.html
